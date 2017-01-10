@@ -1,0 +1,653 @@
+[00:00:00]: PersistRootStorage is now /Users/puss/Documents/Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 202070
+[00:00:00]: Current time: Tue Jan 10 12:40:34 2017
+
+[00:00:00]: Don't Starve Together: 202070 OSX_STEAM
+[00:00:00]: Build Date: 1458
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Steam AppBuildID: 1553666
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (2963857408)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:6.12
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: could not load ping_cache
+[00:00:00]: THREAD - started 'ConsoleInput' (2967027712)
+[00:00:00]: Offline user ID: OU_76561198123123634
+[00:00:00]: SteamID: 76561198123123634
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: WindowManager::Initialize
+[00:00:01]: Creating window with size 1280x720 at 805240832x805240832
+[00:00:01]: THREAD - started 'SDLInputManager' (2969133056)
+[00:00:01]: OSX version 10.12.2
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: GL_VENDOR: Intel Inc.
+[00:00:01]: GL_RENDERER: Intel HD Graphics 5000 OpenGL Engine
+[00:00:01]: GL_VERSION: 2.1 INTEL-10.22.25
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: 1.20
+[00:00:01]: OpenGL 3.0 not present, detecting extensions the old way
+[00:00:01]: OpenGL extensions (129, 129):
+[00:00:01]: 
+[00:00:01]: GL_APPLE_aux_depth_stencil
+[00:00:01]: GL_APPLE_client_storage
+[00:00:01]: GL_APPLE_element_array
+[00:00:01]: GL_APPLE_fence
+[00:00:01]: GL_APPLE_float_pixels
+[00:00:01]: GL_APPLE_flush_buffer_range
+[00:00:01]: GL_APPLE_flush_render
+[00:00:01]: GL_APPLE_object_purgeable
+[00:00:01]: GL_APPLE_packed_pixels
+[00:00:01]: GL_APPLE_pixel_buffer
+[00:00:01]: GL_APPLE_rgb_422
+[00:00:01]: GL_APPLE_row_bytes
+[00:00:01]: GL_APPLE_specular_vector
+[00:00:01]: GL_APPLE_texture_range
+[00:00:01]: GL_APPLE_transform_hint
+[00:00:01]: GL_APPLE_vertex_array_object
+[00:00:01]: GL_APPLE_vertex_array_range
+[00:00:01]: GL_APPLE_vertex_point_size
+[00:00:01]: GL_APPLE_vertex_program_evaluators
+[00:00:01]: GL_APPLE_ycbcr_422
+[00:00:01]: GL_ARB_color_buffer_float
+[00:00:01]: GL_ARB_depth_buffer_float
+[00:00:01]: GL_ARB_depth_clamp
+[00:00:01]: GL_ARB_depth_texture
+[00:00:01]: GL_ARB_draw_buffers
+[00:00:01]: GL_ARB_draw_elements_base_vertex
+[00:00:01]: GL_ARB_draw_instanced
+[00:00:01]: GL_ARB_fragment_program
+[00:00:01]: GL_ARB_fragment_program_shadow
+[00:00:01]: GL_ARB_fragment_shader
+[00:00:01]: GL_ARB_framebuffer_object
+[00:00:01]: GL_ARB_framebuffer_sRGB
+[00:00:01]: GL_ARB_half_float_pixel
+[00:00:01]: GL_ARB_half_float_vertex
+[00:00:01]: GL_ARB_instanced_arrays
+[00:00:01]: GL_ARB_multisample
+[00:00:01]: GL_ARB_multitexture
+[00:00:01]: GL_ARB_occlusion_query
+[00:00:01]: GL_ARB_pixel_buffer_object
+[00:00:01]: GL_ARB_point_parameters
+[00:00:01]: GL_ARB_point_sprite
+[00:00:01]: GL_ARB_provoking_vertex
+[00:00:01]: GL_ARB_seamless_cube_map
+[00:00:01]: GL_ARB_shader_objects
+[00:00:01]: GL_ARB_shader_texture_lod
+[00:00:01]: GL_ARB_shading_language_100
+[00:00:01]: GL_ARB_shadow
+[00:00:01]: GL_ARB_sync
+[00:00:01]: GL_ARB_texture_border_clamp
+[00:00:01]: GL_ARB_texture_compression
+[00:00:01]: GL_ARB_texture_compression_rgtc
+[00:00:01]: GL_ARB_texture_cube_map
+[00:00:01]: GL_ARB_texture_env_add
+[00:00:01]: GL_ARB_texture_env_combine
+[00:00:01]: GL_ARB_texture_env_crossbar
+[00:00:01]: GL_ARB_texture_env_dot3
+[00:00:01]: GL_ARB_texture_float
+[00:00:01]: GL_ARB_texture_mirrored_repeat
+[00:00:01]: GL_ARB_texture_non_power_of_two
+[00:00:01]: GL_ARB_texture_rectangle
+[00:00:01]: GL_ARB_texture_rg
+[00:00:01]: GL_ARB_transpose_matrix
+[00:00:01]: GL_ARB_vertex_array_bgra
+[00:00:01]: GL_ARB_vertex_blend
+[00:00:01]: GL_ARB_vertex_buffer_object
+[00:00:01]: GL_ARB_vertex_program
+[00:00:01]: GL_ARB_vertex_shader
+[00:00:01]: GL_ARB_window_pos
+[00:00:01]: GL_ATI_separate_stencil
+[00:00:01]: GL_ATI_texture_env_combine3
+[00:00:01]: GL_ATI_texture_float
+[00:00:01]: GL_ATI_texture_mirror_once
+[00:00:01]: GL_EXT_abgr
+[00:00:01]: GL_EXT_bgra
+[00:00:01]: GL_EXT_blend_color
+[00:00:01]: GL_EXT_blend_equation_separate
+[00:00:01]: GL_EXT_blend_func_separate
+[00:00:01]: GL_EXT_blend_minmax
+[00:00:01]: GL_EXT_blend_subtract
+[00:00:01]: GL_EXT_clip_volume_hint
+[00:00:01]: GL_EXT_debug_label
+[00:00:01]: GL_EXT_debug_marker
+[00:00:01]: GL_EXT_draw_buffers2
+[00:00:01]: GL_EXT_draw_range_elements
+[00:00:01]: GL_EXT_fog_coord
+[00:00:01]: GL_EXT_framebuffer_blit
+[00:00:01]: GL_EXT_framebuffer_multisample
+[00:00:01]: GL_EXT_framebuffer_multisample_blit_scaled
+[00:00:01]: GL_EXT_framebuffer_object
+[00:00:01]: GL_EXT_framebuffer_sRGB
+[00:00:01]: GL_EXT_geometry_shader4
+[00:00:01]: GL_EXT_gpu_program_parameters
+[00:00:01]: GL_EXT_gpu_shader4
+[00:00:01]: GL_EXT_multi_draw_arrays
+[00:00:01]: GL_EXT_packed_depth_stencil
+[00:00:01]: GL_EXT_packed_float
+[00:00:01]: GL_EXT_provoking_vertex
+[00:00:01]: GL_EXT_rescale_normal
+[00:00:01]: GL_EXT_secondary_color
+[00:00:01]: GL_EXT_separate_specular_color
+[00:00:01]: GL_EXT_shadow_funcs
+[00:00:01]: GL_EXT_stencil_two_side
+[00:00:01]: GL_EXT_stencil_wrap
+[00:00:01]: GL_EXT_texture_array
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_compression_s3tc
+[00:00:01]: GL_EXT_texture_env_add
+[00:00:01]: GL_EXT_texture_filter_anisotropic
+[00:00:01]: GL_EXT_texture_integer
+[00:00:01]: GL_EXT_texture_lod_bias
+[00:00:01]: GL_EXT_texture_rectangle
+[00:00:01]: GL_EXT_texture_sRGB
+[00:00:01]: GL_EXT_texture_sRGB_decode
+[00:00:01]: GL_EXT_texture_shared_exponent
+[00:00:01]: GL_EXT_timer_query
+[00:00:01]: GL_EXT_transform_feedback
+[00:00:01]: GL_EXT_vertex_array_bgra
+[00:00:01]: GL_IBM_rasterpos_clip
+[00:00:01]: GL_NV_blend_square
+[00:00:01]: GL_NV_conditional_render
+[00:00:01]: GL_NV_depth_clamp
+[00:00:01]: GL_NV_fog_distance
+[00:00:01]: GL_NV_light_max_exponent
+[00:00:01]: GL_NV_texgen_reflection
+[00:00:01]: GL_NV_texture_barrier
+[00:00:01]: GL_SGIS_generate_mipmap
+[00:00:01]: GL_SGIS_texture_edge_clamp
+[00:00:01]: GL_SGIS_texture_lod
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:01]: GL_MAX_VARYING_VECTORS not supported
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS not supported
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS not supported
+[00:00:01]: 3 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence.
+	
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: PlayerDeaths could not load morgue	
+[00:00:03]: PlayerHistory could not load player_history	
+[00:00:03]: bloom_enabled	false	
+[00:00:03]: Could not load saveindex	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:04]: 	Load FE	
+[00:00:06]: 	Load FE: done	
+[00:00:06]: OnLoadPermissionList: /Users/puss/Documents/Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:06]: OnLoadPermissionList: /Users/puss/Documents/Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:06]: OnLoadUserIdList: /Users/puss/Documents/Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:06]: SimLuaProxy::QueryServer()
+[00:00:06]: ModIndex: Load sequence finished successfully.	
+[00:00:06]: Reset() returning
+[00:00:06]: focus gained
+[00:00:06]: focus lost
+[00:00:06]: focus gained
+[00:00:06]: focus lost
+[00:00:08]: CURL ERROR: (metric.kleientertainment.com) Resolving timed out after 5016 milliseconds
+[00:01:03]: focus gained
+[00:01:04]: [Steam] Auth Session Ticket requested...
+[00:01:04]: [Steam] Got Auth Session Ticket
+[00:01:08]: [200] Account Communication Success (3)
+[00:01:08]: loaded inventory_cache
+[00:01:08]: Logging in as KU_uGVY91rE
+[00:01:14]: CURL ERROR: (metric.kleientertainment.com) Operation timed out after 5000 milliseconds with 0 out of 0 bytes received
+[00:01:19]: loaded inventory_cache
+[00:01:20]: SimLuaProxy::QueryServer()
+[00:01:21]: SimLuaProxy::QueryServer()
+[00:01:25]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"klei", "limit": 20}
+[00:01:28]: Executing "open "http://steamcommunity.com/workshop/filedetails/?id=647828809""
+[00:01:29]: focus lost
+[00:01:29]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"klei", "limit": 20}
+[00:01:31]: CURL ERROR: (clientservice.kleientertainment.com) Operation timed out after 5003 milliseconds with 0 out of 0 bytes received
+[00:01:35]: focus gained
+[00:01:48]: Collecting garbage...
+[00:01:48]: lua_gc took 0.03 seconds
+[00:01:48]: ~ShardLuaProxy()
+[00:01:48]: ~ItemServerLuaProxy()
+[00:01:48]: ~InventoryLuaProxy()
+[00:01:48]: ~NetworkLuaProxy()
+[00:01:48]: ~SimLuaProxy()
+[00:01:48]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:49]: lua_close took 0.07 seconds
+[00:01:49]: ReleaseAll
+[00:01:49]: ReleaseAll Finished
+[00:01:49]: cGame::StartPlaying
+[00:01:49]: LOADING LUA
+[00:01:49]: DoLuaFile scripts/main.lua
+[00:01:49]: DoLuaFile loading buffer scripts/main.lua
+[00:01:49]: running main.lua
+	
+[00:01:49]: loaded modindex	
+[00:01:49]: ModIndex: Beginning normal load sequence.
+	
+[00:01:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:01:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-367546858	
+[00:01:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:01:49]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:01:49]: Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:01:49]: Could not load mod_config_data/modconfiguration_workshop-367546858	
+[00:01:49]: Loading mod: workshop-367546858 (Chinese Language Pack) Version:2.6.5	
+[00:01:49]: Could not load mod_config_data/modconfiguration_workshop-836583293	
+[00:01:49]: Loading mod: workshop-836583293 (Item Info) Version:0.13	
+[00:01:49]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:01:49]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:49]: Mod: workshop-365119238 (SmartCrockPot)	Loading modmain.lua	
+[00:01:49]: modimport: ../mods/workshop-365119238/modmain_segments/containerwidgetfunction.lua	
+[00:01:49]: modimport: ../mods/workshop-365119238/modmain_segments/containers_setup.lua	
+[00:01:49]: modimport: ../mods/workshop-365119238/modmain_segments/action_predict.lua	
+[00:01:49]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:01:49]: Action defined at 	../mods/workshop-365119238/modmain_segments/action_predict.lua:1 in (local) result (main) <0-0>	
+[00:01:49]: Mod: workshop-836583293 (Item Info)	Loading modworldgenmain.lua	
+[00:01:49]: Mod: workshop-836583293 (Item Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:49]: Mod: workshop-836583293 (Item Info)	Loading modmain.lua	
+[00:01:49]: Mod: workshop-367546858 (Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:01:49]: Mod: workshop-367546858 (Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:49]: Mod: workshop-367546858 (Chinese Language Pack)	Loading modmain.lua	
+[00:01:49]: Translator:LoadPOFile - loading file: ../mods/workshop-367546858/DST_chs.po	
+[00:01:49]: [Chinses] 据STEAM语言加载简体翻译成功！	
+[00:01:49]: LOADING LUA SUCCESS
+[00:01:50]: PlayerDeaths could not load morgue	
+[00:01:50]: PlayerHistory could not load player_history	
+[00:01:50]: bloom_enabled	false	
+[00:01:50]: Could not load saveindex	
+[00:01:50]: OnFilesLoaded()	
+[00:01:50]: OnUpdatePurchaseStateComplete	
+[00:01:50]: 	Unload BE	
+[00:01:50]: 	Unload BE done	
+[00:01:50]: Could not unload undefined prefab 0x5ce87c8b (torchfire_rag)
+[00:01:50]: Could not unload undefined prefab 0x303eb17b (strawhat_floppy)
+[00:01:50]: Could not unload undefined prefab 0x57918ac2 (wendy_none)
+[00:01:50]: Could not unload undefined prefab 0x451aaca5 (wendy_lureplant)
+[00:01:50]: Could not unload undefined prefab 0x2974098a (wendy_shadow)
+[00:01:50]: Could not unload undefined prefab 0x6a7b4c20 (wendy_survivor)
+[00:01:50]: Could not unload undefined prefab 0x53c51cd7 (dragonling_winter_builder)
+[00:01:50]: Could not unload undefined prefab 0x37305d7f (dragonling_wyvern_builder)
+[00:01:50]: Could not unload undefined prefab 0x399804b (hat_chester_costume)
+[00:01:50]: Could not unload undefined prefab 0x4ce85c84 (tophat_festive_bell_red_firehound)
+[00:01:50]: Could not unload undefined prefab 0x44565b2b (glomling_winter)
+[00:01:50]: Could not unload undefined prefab 0x1950012c (backpack_basic_blue_catcoon)
+[00:01:50]: Could not unload undefined prefab 0x2410fefc (backpack_deerclops)
+[00:01:50]: Could not unload undefined prefab 0x39a71db2 (backpack_mandrake)
+[00:01:50]: Could not unload undefined prefab 0x116a891d (backpack_mushy)
+[00:01:50]: Could not unload undefined prefab 0x12d1229f (backpack_poop)
+[00:01:50]: Could not unload undefined prefab 0x4c838081 (backpack_smallbird)
+[00:01:50]: Could not unload undefined prefab 0x3070c0a4 (backpack_spider)
+[00:01:50]: Could not unload undefined prefab 0x3f31bff0 (wathgrithr_formal)
+[00:01:50]: Could not unload undefined prefab 0x68a7b261 (wathgrithr_shadow)
+[00:01:50]: Could not unload undefined prefab 0x6439f977 (wathgrithr_survivor)
+[00:01:50]: Could not unload undefined prefab 0x3ee0adf6 (lamb_winter_builder)
+[00:01:50]: Could not unload undefined prefab 0x352b2e1b (dragonling_winter)
+[00:01:50]: Could not unload undefined prefab 0x31c7ae78 (glomling_beardeddragon_builder)
+[00:01:50]: Could not unload undefined prefab 0x4f229e7 (glomling_winter_builder)
+[00:01:50]: Could not unload undefined prefab 0x26f06814 (endtable_dragonfly)
+[00:01:50]: Could not unload undefined prefab 0x1f7d0c5a (endtable_vintage)
+[00:01:50]: Could not unload undefined prefab 0x1f0cf1ad (wes_mandrake)
+[00:01:50]: Could not unload undefined prefab 0x33bfe130 (wes_survivor)
+[00:01:50]: Could not unload undefined prefab 0x1159f73 (webber_formal)
+[00:01:50]: Could not unload undefined prefab 0x2a8b91e4 (webber_shadow)
+[00:01:50]: Could not unload undefined prefab 0x37af843b (willow_survivor)
+[00:01:50]: Could not unload undefined prefab 0x11d691b2 (waxwell_formal)
+[00:01:50]: Could not unload undefined prefab 0x3082b789 (wolfgang_formal)
+[00:01:50]: Could not unload undefined prefab 0x59f8a9fa (wolfgang_shadow)
+[00:01:50]: Could not unload undefined prefab 0x211a4045 (woodie_formal)
+[00:01:50]: Could not unload undefined prefab 0x4a9032b6 (woodie_shadow)
+[00:01:50]: Could not unload undefined prefab 0x3bd9f4c (woodie_survivor)
+[00:01:50]: Could not unload undefined prefab 0x5e75e351 (woodie_treeguard)
+[00:01:50]: Could not unload undefined prefab 0x6f8359c (wickerbottom_formal)
+[00:01:50]: Could not unload undefined prefab 0x306e280d (wickerbottom_shadow)
+[00:01:50]: Could not unload undefined prefab 0x2c3b5783 (birdcage_pirate)
+[00:01:50]: Could not unload undefined prefab 0x58316f36 (winterhat_pink_hibiscus)
+[00:01:50]: Could not unload undefined prefab 0x5763b33d (wilson_survivor)
+[00:01:50]: Could not unload undefined prefab 0x63300a15 (torch_rag)
+[00:01:50]: Could not unload undefined prefab 0x222dd5a3 (torch_shadow)
+[00:01:50]: Could not unload undefined prefab 0x1db827b8 (torchfire_spooky)
+[00:01:50]: Could not unload undefined prefab 0x2cdbf490 (wx78_rhinorook)
+[00:01:50]: Could not unload undefined prefab 0x5ad3db3 (wx78_survivor)
+[00:01:50]: Could not unload undefined prefab 0x56f121b0 (treasurechest_carpetbag)
+[00:01:50]: Could not unload undefined prefab 0x4821be21 (treasurechest_posh)
+[00:01:50]: Could not unload undefined prefab 0x4dbe6ea4 (treasurechest_steamertrunk)
+[00:01:50]: Could not unload undefined prefab 0x1d3ad72d (treasurechest_traveltrunk)
+[00:01:50]: Could not unload undefined prefab 0x20331a8d (firepit_fanged)
+[00:01:50]: Could not unload undefined prefab 0x1d79c25a (firepit_hole)
+[00:01:50]: Could not unload undefined prefab 0x440c36a4 (firepit_stonehenge)
+[00:01:50]: Could not unload undefined prefab 0x436fb359 (kitten_winter_builder)
+[00:01:51]: Mod: workshop-365119238 (SmartCrockPot)	Registering prefabs	
+[00:01:51]: Mod: workshop-365119238 (SmartCrockPot)	  Registering default mod prefab	
+[00:01:51]: Mod: workshop-836583293 (Item Info)	Registering prefabs	
+[00:01:51]: Mod: workshop-836583293 (Item Info)	  Registering default mod prefab	
+[00:01:51]: Mod: workshop-367546858 (Chinese Language Pack)	Registering prefabs	
+[00:01:51]: Mod: workshop-367546858 (Chinese Language Pack)	  Registering default mod prefab	
+[00:01:51]: 	Load FE	
+[00:01:52]: 	Load FE: done	
+[00:01:52]: OnLoadPermissionList: /Users/puss/Documents/Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:01:52]: OnLoadPermissionList: /Users/puss/Documents/Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:01:52]: OnLoadUserIdList: /Users/puss/Documents/Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:01:52]: SimLuaProxy::QueryServer()
+[00:01:52]: ModIndex: Load sequence finished successfully.	
+[00:01:52]: Reset() returning
+[00:02:05]: focus lost
+[00:02:06]: [200] Account Communication Success (6)
+[00:02:06]: Received (KU_uGVY91rE) from TokenPurpose
+[00:02:06]: [Steam] Auth Session Ticket requested...
+[00:02:06]: loaded inventory_cache
+[00:02:07]: [Steam] Got Auth Session Ticket
+[00:02:08]: loaded inventory_cache
+[00:02:09]: SimLuaProxy::QueryServer()
+[00:02:11]: focus gained
+[00:02:13]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"klei", "limit": 20}
+[00:02:13]: Frontend-Unloading mod 'all'.	
+[00:04:49]: FrontendLoadMod	workshop-375850593	
+[00:04:49]: Could not load mod_config_data/modconfiguration_workshop-375850593	
+[00:04:49]: Fontend-Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:04:49]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:04:49]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:52]: FrontendLoadMod	workshop-378160973	
+[00:04:52]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:04:52]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.6.6	
+[00:04:52]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:04:52]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:05:03]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:05:03]: Could not load mod_config_data/modconfiguration_workshop-375850593	
+[00:05:03]: Not applying level data overrides.	
+[00:05:03]: Not applying world gen overrides.	
+[00:05:03]: [IPC] Signal created '/DST_Master_Starting'  #0x40
+[00:05:03]: [IPC] Clearing pending signals #0x40...
+[00:05:03]: [IPC] Registering handler for signal #0x40
+[00:05:03]: [IPC] Signal created '/DST_Master_WorldGen'  #0x46
+[00:05:03]: [IPC] Clearing pending signals #0x46...
+[00:05:03]: [IPC] Registering handler for signal #0x46
+[00:05:03]: [IPC] Signal created '/DST_Master_Ready'  #0x47
+[00:05:03]: [IPC] Clearing pending signals #0x47...
+[00:05:03]: [IPC] Registering handler for signal #0x47
+[00:05:03]: [IPC] Signal created '/DST_Master_ErrPort'  #0x48
+[00:05:03]: [IPC] Clearing pending signals #0x48...
+[00:05:03]: [IPC] Registering handler for signal #0x48
+[00:05:03]: [IPC] Signal created '/DST_Master_ErrStartup'  #0x49
+[00:05:03]: [IPC] Clearing pending signals #0x49...
+[00:05:03]: [IPC] Registering handler for signal #0x49
+[00:05:03]: [IPC] Signal created '/DST_Master_Kill'  #0x4a
+[00:05:03]: [IPC] Clearing pending signals #0x4a...
+[00:05:03]: Starting subprocess with Args: => ./dontstarve_dedicated_server_nullrenderer -monitor_parent_process 2731 -persistent_storage_root /Users/puss/Documents/Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -ownernetid 76561198123123634 -backup_log_count 10 -shard Master -sigprefix DST_Master
+[00:05:03]: CWD is: /Users/puss/Library/Application Support/Steam/steamapps/common/Don't Starve Together/dontstarve_steam.app/Contents/data
+[00:05:03]: [IPC] Signal created '/DST_Slave_Starting'  #0x4b
+[00:05:03]: [IPC] Clearing pending signals #0x4b...
+[00:05:03]: [IPC] Registering handler for signal #0x4b
+[00:05:03]: [IPC] Signal created '/DST_Slave_WorldGen'  #0x4c
+[00:05:03]: [IPC] Clearing pending signals #0x4c...
+[00:05:03]: [IPC] Registering handler for signal #0x4c
+[00:05:03]: [IPC] Signal created '/DST_Slave_Ready'  #0x4d
+[00:05:03]: [IPC] Clearing pending signals #0x4d...
+[00:05:03]: [IPC] Registering handler for signal #0x4d
+[00:05:03]: [IPC] Signal created '/DST_Slave_ErrPort'  #0x4e
+[00:05:03]: [IPC] Clearing pending signals #0x4e...
+[00:05:03]: [IPC] Registering handler for signal #0x4e
+[00:05:03]: [IPC] Signal created '/DST_Slave_ErrStartup'  #0x4f
+[00:05:03]: [IPC] Clearing pending signals #0x4f...
+[00:05:03]: [IPC] Registering handler for signal #0x4f
+[00:05:03]: [IPC] Signal created '/DST_Slave_Kill'  #0x50
+[00:05:03]: [IPC] Clearing pending signals #0x50...
+[00:05:03]: Starting subprocess with Args: => ./dontstarve_dedicated_server_nullrenderer -monitor_parent_process 2731 -persistent_storage_root /Users/puss/Documents/Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -ownernetid 76561198123123634 -backup_log_count 10 -shard Caves -sigprefix DST_Slave
+[00:05:03]: CWD is: /Users/puss/Library/Application Support/Steam/steamapps/common/Don't Starve Together/dontstarve_steam.app/Contents/data
+[00:05:10]: [IPC] Received DST_Slave Starting signal !
+[00:05:10]: [IPC] Received DST_Master Starting signal !
+[00:05:14]: [IPC] Received DST_Master WorldGen signal !
+[00:05:15]: [IPC] Received DST_Slave WorldGen signal !
+[00:05:44]: [IPC] Received DST_Master Ready signal !
+[00:05:46]: focus lost
+[00:06:11]: [IPC] Received DST_Slave Ready signal !
+[00:06:11]: [Connect] Init client connection to 127.0.0.1|10999
+[00:06:11]: [Connect] PendingConnection::Reset(true)
+[00:06:11]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:06:11]: [Connect] InternalInitClient <7197587164096092284>
+[00:06:11]: [Shard] Starting shard mode as player
+[00:06:11]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:06:11]: [Connect] Sending ping(s)...
+[00:06:11]: [Connect] Ping 127.0.0.1|10999
+[00:06:11]: [Connect] Ping response from 127.0.0.1|10999
+[00:06:11]: [Connect] Joining server from ping response...
+[00:06:11]: Friends are currently playing in 0 games(s)!
+[00:06:11]: You belong to 2 clan(s)!
+[00:06:11]: [Connect] Got join server response from lua
+[00:06:15]: [200] Account Communication Success (13)
+[00:06:15]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:06:15]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:06:15]: Connection accepted to 127.0.0.1|10999 <3145855518255923095>
+[00:06:15]: Network external address discovered: 127.0.0.1|52235
+[00:06:15]: SendClientHandShakePacket "pgs-sing^KU_uGVY91rE^DontStarveTogether^sozKBqZ6WlcdelIxEgeHY1MXc2JdZnODCtYfbzwKxF8=" to <3145855518255923095>
+[00:06:17]: DeserializeHandShakeServerListing
+[00:06:17]: Network tick rate: U=10(3), D=15
+[00:06:17]: Version: 202070
+[00:06:17]: [Steam] Game Connection initiated
+[00:06:17]: SendClientInventoryHandShakePacket to <3145855518255923095>
+[00:06:24]: Begin Session: D919119B28CEA2AC
+[00:06:24]: Done Downloading Client Object Data
+[00:06:24]: DownloadMods and temp disable	
+[00:06:24]: We now have the required mods, enable them for server	
+[00:06:24]: Temp Enabling workshop-378160973	
+[00:06:24]: Temp Enabling workshop-375850593	
+[00:06:24]: ModIndex:SetTempModConfigData	
+[00:06:24]: Setting temp mod config for mod 	workshop-378160973	
+[00:06:24]: Setting temp mod config for mod 	workshop-375850593	
+[00:06:24]: Mods are setup for server, save the mod index and proceed.	
+[00:06:24]: Downloading [0] From: server_temp
+[00:06:24]: 0 (39%) 1/1 server_temp/server_save 114000b / 288459b
+[00:06:24]: 0 (78%) 1/1 server_temp/server_save 228000b / 288459b
+[00:06:24]: 0 (100%) 1/1 server_temp/server_save 288459b / 288459b
+[00:06:24]: Download complete[0] Files: 1 Size: 288459
+[00:06:26]: unloading prefabs for mod MOD_workshop-365119238	
+[00:06:26]: unloading prefabs for mod MOD_workshop-836583293	
+[00:06:26]: unloading prefabs for mod MOD_workshop-367546858	
+[00:06:26]: Collecting garbage...
+[00:06:26]: lua_gc took 0.04 seconds
+[00:06:26]: ~ShardLuaProxy()
+[00:06:26]: ~ItemServerLuaProxy()
+[00:06:26]: ~InventoryLuaProxy()
+[00:06:26]: ~NetworkLuaProxy()
+[00:06:26]: ~SimLuaProxy()
+[00:06:26]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:06:26]: lua_close took 0.10 seconds
+[00:06:26]: ReleaseAll
+[00:06:26]: ReleaseAll Finished
+[00:06:26]: cGame::StartPlaying
+[00:06:26]: LOADING LUA
+[00:06:26]: DoLuaFile scripts/main.lua
+[00:06:26]: DoLuaFile loading buffer scripts/main.lua
+[00:06:26]: running main.lua
+	
+[00:06:26]: loaded modindex	
+[00:06:26]: ModIndex: Beginning normal load sequence.
+	
+[00:06:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:06:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-367546858	
+[00:06:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:06:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:06:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:06:26]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:06:26]: Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:06:26]: Could not load mod_config_data/modconfiguration_workshop-367546858	
+[00:06:26]: Loading mod: workshop-367546858 (Chinese Language Pack) Version:2.6.5	
+[00:06:26]: Could not load mod_config_data/modconfiguration_workshop-375850593_CLIENT	
+[00:06:26]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:06:26]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:06:26]: Loading mod: workshop-378160973 (Global Positions) Version:1.6.6	
+[00:06:26]: Could not load mod_config_data/modconfiguration_workshop-836583293	
+[00:06:26]: Loading mod: workshop-836583293 (Item Info) Version:0.13	
+[00:06:26]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:06:26]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:06:26]: Mod: workshop-365119238 (SmartCrockPot)	Loading modmain.lua	
+[00:06:26]: modimport: ../mods/workshop-365119238/modmain_segments/containerwidgetfunction.lua	
+[00:06:26]: modimport: ../mods/workshop-365119238/modmain_segments/containers_setup.lua	
+[00:06:26]: modimport: ../mods/workshop-365119238/modmain_segments/action_predict.lua	
+[00:06:26]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:06:26]: Action defined at 	../mods/workshop-365119238/modmain_segments/action_predict.lua:1 in (local) result (main) <0-0>	
+[00:06:26]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:06:26]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:06:26]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmain.lua	
+[00:06:26]: Mod: workshop-836583293 (Item Info)	Loading modworldgenmain.lua	
+[00:06:26]: Mod: workshop-836583293 (Item Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:06:26]: Mod: workshop-836583293 (Item Info)	Loading modmain.lua	
+[00:06:26]: Mod: workshop-367546858 (Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:06:26]: Mod: workshop-367546858 (Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:06:26]: Mod: workshop-367546858 (Chinese Language Pack)	Loading modmain.lua	
+[00:06:26]: Translator:LoadPOFile - loading file: ../mods/workshop-367546858/DST_chs.po	
+[00:06:26]: [Chinses] 据STEAM语言加载简体翻译成功！	
+[00:06:26]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:06:26]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:06:26]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:06:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:06:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-367546858	
+[00:06:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:06:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:06:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:06:27]: LOADING LUA SUCCESS
+[00:06:27]: Registering mod namespace "workshop-378160973"
+[00:06:27]: PlayerDeaths could not load morgue	
+[00:06:27]: PlayerHistory could not load player_history	
+[00:06:27]: bloom_enabled	false	
+[00:06:27]: OnLoad slot	2	: World options was nil! Populating with default.	
+[00:06:27]: OnLoad slot	3	: World options was nil! Populating with default.	
+[00:06:27]: OnLoad slot	4	: World options was nil! Populating with default.	
+[00:06:27]: OnLoad slot	5	: World options was nil! Populating with default.	
+[00:06:27]: loaded saveindex	
+[00:06:27]: OnFilesLoaded()	
+[00:06:27]: OnUpdatePurchaseStateComplete	
+[00:06:27]: 	Unload FE	
+[00:06:27]: 	Unload FE done	
+[00:06:29]: Mod: workshop-365119238 (SmartCrockPot)	Registering prefabs	
+[00:06:29]: Mod: workshop-365119238 (SmartCrockPot)	  Registering default mod prefab	
+[00:06:29]: Mod: workshop-375850593 (Extra Equip Slots)	Registering prefabs	
+[00:06:29]: Mod: workshop-375850593 (Extra Equip Slots)	  Registering default mod prefab	
+[00:06:29]: Mod: workshop-836583293 (Item Info)	Registering prefabs	
+[00:06:29]: Mod: workshop-836583293 (Item Info)	  Registering default mod prefab	
+[00:06:29]: Mod: workshop-367546858 (Chinese Language Pack)	Registering prefabs	
+[00:06:29]: Mod: workshop-367546858 (Chinese Language Pack)	  Registering default mod prefab	
+[00:06:29]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:06:29]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:06:29]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:06:29]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:06:29]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:06:29]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:06:29]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:06:29]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:06:29]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:06:29]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:06:29]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:06:29]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:06:29]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:06:29]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:06:29]: 	LOAD BE	
+[00:06:35]: 	LOAD BE: done	
+[00:06:36]: Loading world: client_temp/server_save	
+[00:06:36]: Save file is at version 4.5	
+[00:06:36]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:06:36]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:06:36]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:06:36]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:06:36]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:06:36]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:06:36]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:06:37]: Loading Nav Grid	
+[00:06:37]: Reconstructing topology	
+[00:06:37]: 	...Sorting points	
+[00:06:37]: 	...Sorting edges	
+[00:06:37]: 	...Connecting nodes	
+[00:06:37]: 	...Validating connections	
+[00:06:38]: 	...Housekeeping	
+[00:06:38]: 	...Done!	
+[00:06:38]: ModIndex: Load sequence finished successfully.	
+[00:06:38]: Reset() returning
+[00:06:39]: focus gained
+[00:06:39]: focus lost
+[00:06:39]: Attempting to send resume request
+[00:06:39]: ReceiveResumeNotification
+[00:06:39]: Deleting user: session/D919119B28CEA2AC/KU_uGVY91rE_/0000000001
+[00:06:54]: focus gained
+[00:06:54]: Could not find anim [emoteXL_waving2] in bank [FROMNUM]
+[00:06:58]: [IPC] Sending signal.... #0x4a
+[00:07:00]: [IPC] Unregistering handler for signal #0x40
+[00:07:00]: [IPC] Unregistering handler for signal #0x46
+[00:07:00]: [IPC] Unregistering handler for signal #0x47
+[00:07:00]: [IPC] Unregistering handler for signal #0x48
+[00:07:00]: [IPC] Unregistering handler for signal #0x49
+[00:07:00]: [IPC] Sending signal.... #0x4a
+[00:07:00]: [IPC] Sending signal.... #0x50
+[00:07:03]: [IPC] Unregistering handler for signal #0x4b
+[00:07:03]: [IPC] Unregistering handler for signal #0x4c
+[00:07:03]: [IPC] Unregistering handler for signal #0x4d
+[00:07:03]: [IPC] Unregistering handler for signal #0x4e
+[00:07:03]: [IPC] Unregistering handler for signal #0x4f
+[00:07:03]: [IPC] Sending signal.... #0x50
+[00:07:03]: unloading prefabs for mod MOD_workshop-365119238	
+[00:07:03]: unloading prefabs for mod MOD_workshop-375850593	
+[00:07:03]: unloading prefabs for mod MOD_workshop-836583293	
+[00:07:03]: unloading prefabs for mod MOD_workshop-367546858	
+[00:07:03]: unloading prefabs for mod MOD_workshop-378160973	
+[00:07:03]: [Steam] Game Connection terminated (16777343|10999)
+[00:07:03]: [Shard] Stopping shard mode
+[00:07:03]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:07:03]: Collecting garbage...
+[00:07:03]: lua_gc took 0.04 seconds
+[00:07:03]: ~ShardLuaProxy()
+[00:07:03]: ~ItemServerLuaProxy()
+[00:07:03]: ~InventoryLuaProxy()
+[00:07:03]: ~NetworkLuaProxy()
+[00:07:03]: ~SimLuaProxy()
+[00:07:03]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:07:03]: lua_close took 0.09 seconds
+[00:07:03]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:07:03]: [Steam] Auth ticket cancelled
+[00:07:03]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:07:03]: shaders/ui_yuv.ksh - 1
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:07:03]: CurlRequestManager::ClientThread::Main() complete
+[00:07:03]: HttpClient2 discarded 0 callbacks.
+[00:07:03]: Shutting down

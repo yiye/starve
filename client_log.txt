@@ -1,0 +1,257 @@
+[00:00:00]: PersistRootStorage is now /Users/puss/Documents/Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 202070
+[00:00:00]: Current time: Tue Jan 10 12:47:48 2017
+
+[00:00:00]: Don't Starve Together: 202070 OSX_STEAM
+[00:00:00]: Build Date: 1458
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Steam AppBuildID: 1553666
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (2965389312)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:8.04
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: could not load ping_cache
+[00:00:00]: THREAD - started 'ConsoleInput' (2968027136)
+[00:00:00]: Offline user ID: OU_76561198123123634
+[00:00:00]: SteamID: 76561198123123634
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: Creating window with size 1280x720 at 805240832x805240832
+[00:00:00]: THREAD - started 'SDLInputManager' (2970132480)
+[00:00:00]: OSX version 10.12.2
+[00:00:00]: GLInfo
+[00:00:00]: ~~~~~~
+[00:00:00]: GL_VENDOR: Intel Inc.
+[00:00:00]: GL_RENDERER: Intel HD Graphics 5000 OpenGL Engine
+[00:00:00]: GL_VERSION: 2.1 INTEL-10.22.25
+[00:00:00]: GL_SHADING_LANGUAGE_VERSION: 1.20
+[00:00:00]: OpenGL 3.0 not present, detecting extensions the old way
+[00:00:00]: OpenGL extensions (129, 129):
+[00:00:00]: 
+[00:00:00]: GL_APPLE_aux_depth_stencil
+[00:00:00]: GL_APPLE_client_storage
+[00:00:00]: GL_APPLE_element_array
+[00:00:00]: GL_APPLE_fence
+[00:00:00]: GL_APPLE_float_pixels
+[00:00:00]: GL_APPLE_flush_buffer_range
+[00:00:00]: GL_APPLE_flush_render
+[00:00:00]: GL_APPLE_object_purgeable
+[00:00:00]: GL_APPLE_packed_pixels
+[00:00:00]: GL_APPLE_pixel_buffer
+[00:00:00]: GL_APPLE_rgb_422
+[00:00:00]: GL_APPLE_row_bytes
+[00:00:00]: GL_APPLE_specular_vector
+[00:00:00]: GL_APPLE_texture_range
+[00:00:00]: GL_APPLE_transform_hint
+[00:00:00]: GL_APPLE_vertex_array_object
+[00:00:00]: GL_APPLE_vertex_array_range
+[00:00:00]: GL_APPLE_vertex_point_size
+[00:00:00]: GL_APPLE_vertex_program_evaluators
+[00:00:00]: GL_APPLE_ycbcr_422
+[00:00:00]: GL_ARB_color_buffer_float
+[00:00:00]: GL_ARB_depth_buffer_float
+[00:00:00]: GL_ARB_depth_clamp
+[00:00:00]: GL_ARB_depth_texture
+[00:00:00]: GL_ARB_draw_buffers
+[00:00:00]: GL_ARB_draw_elements_base_vertex
+[00:00:00]: GL_ARB_draw_instanced
+[00:00:00]: GL_ARB_fragment_program
+[00:00:00]: GL_ARB_fragment_program_shadow
+[00:00:00]: GL_ARB_fragment_shader
+[00:00:00]: GL_ARB_framebuffer_object
+[00:00:00]: GL_ARB_framebuffer_sRGB
+[00:00:00]: GL_ARB_half_float_pixel
+[00:00:00]: GL_ARB_half_float_vertex
+[00:00:00]: GL_ARB_instanced_arrays
+[00:00:00]: GL_ARB_multisample
+[00:00:00]: GL_ARB_multitexture
+[00:00:00]: GL_ARB_occlusion_query
+[00:00:00]: GL_ARB_pixel_buffer_object
+[00:00:00]: GL_ARB_point_parameters
+[00:00:00]: GL_ARB_point_sprite
+[00:00:00]: GL_ARB_provoking_vertex
+[00:00:00]: GL_ARB_seamless_cube_map
+[00:00:00]: GL_ARB_shader_objects
+[00:00:00]: GL_ARB_shader_texture_lod
+[00:00:00]: GL_ARB_shading_language_100
+[00:00:00]: GL_ARB_shadow
+[00:00:00]: GL_ARB_sync
+[00:00:00]: GL_ARB_texture_border_clamp
+[00:00:00]: GL_ARB_texture_compression
+[00:00:00]: GL_ARB_texture_compression_rgtc
+[00:00:00]: GL_ARB_texture_cube_map
+[00:00:00]: GL_ARB_texture_env_add
+[00:00:00]: GL_ARB_texture_env_combine
+[00:00:00]: GL_ARB_texture_env_crossbar
+[00:00:00]: GL_ARB_texture_env_dot3
+[00:00:00]: GL_ARB_texture_float
+[00:00:00]: GL_ARB_texture_mirrored_repeat
+[00:00:00]: GL_ARB_texture_non_power_of_two
+[00:00:00]: GL_ARB_texture_rectangle
+[00:00:00]: GL_ARB_texture_rg
+[00:00:00]: GL_ARB_transpose_matrix
+[00:00:00]: GL_ARB_vertex_array_bgra
+[00:00:00]: GL_ARB_vertex_blend
+[00:00:00]: GL_ARB_vertex_buffer_object
+[00:00:00]: GL_ARB_vertex_program
+[00:00:00]: GL_ARB_vertex_shader
+[00:00:00]: GL_ARB_window_pos
+[00:00:00]: GL_ATI_separate_stencil
+[00:00:00]: GL_ATI_texture_env_combine3
+[00:00:00]: GL_ATI_texture_float
+[00:00:00]: GL_ATI_texture_mirror_once
+[00:00:00]: GL_EXT_abgr
+[00:00:00]: GL_EXT_bgra
+[00:00:00]: GL_EXT_blend_color
+[00:00:00]: GL_EXT_blend_equation_separate
+[00:00:00]: GL_EXT_blend_func_separate
+[00:00:00]: GL_EXT_blend_minmax
+[00:00:00]: GL_EXT_blend_subtract
+[00:00:00]: GL_EXT_clip_volume_hint
+[00:00:00]: GL_EXT_debug_label
+[00:00:00]: GL_EXT_debug_marker
+[00:00:00]: GL_EXT_draw_buffers2
+[00:00:00]: GL_EXT_draw_range_elements
+[00:00:00]: GL_EXT_fog_coord
+[00:00:00]: GL_EXT_framebuffer_blit
+[00:00:00]: GL_EXT_framebuffer_multisample
+[00:00:00]: GL_EXT_framebuffer_multisample_blit_scaled
+[00:00:00]: GL_EXT_framebuffer_object
+[00:00:00]: GL_EXT_framebuffer_sRGB
+[00:00:00]: GL_EXT_geometry_shader4
+[00:00:00]: GL_EXT_gpu_program_parameters
+[00:00:00]: GL_EXT_gpu_shader4
+[00:00:00]: GL_EXT_multi_draw_arrays
+[00:00:00]: GL_EXT_packed_depth_stencil
+[00:00:00]: GL_EXT_packed_float
+[00:00:00]: GL_EXT_provoking_vertex
+[00:00:00]: GL_EXT_rescale_normal
+[00:00:00]: GL_EXT_secondary_color
+[00:00:00]: GL_EXT_separate_specular_color
+[00:00:00]: GL_EXT_shadow_funcs
+[00:00:00]: GL_EXT_stencil_two_side
+[00:00:00]: GL_EXT_stencil_wrap
+[00:00:00]: GL_EXT_texture_array
+[00:00:00]: GL_EXT_texture_compression_dxt1
+[00:00:00]: GL_EXT_texture_compression_s3tc
+[00:00:00]: GL_EXT_texture_env_add
+[00:00:00]: GL_EXT_texture_filter_anisotropic
+[00:00:00]: GL_EXT_texture_integer
+[00:00:00]: GL_EXT_texture_lod_bias
+[00:00:00]: GL_EXT_texture_rectangle
+[00:00:00]: GL_EXT_texture_sRGB
+[00:00:00]: GL_EXT_texture_sRGB_decode
+[00:00:00]: GL_EXT_texture_shared_exponent
+[00:00:00]: GL_EXT_timer_query
+[00:00:00]: GL_EXT_transform_feedback
+[00:00:00]: GL_EXT_vertex_array_bgra
+[00:00:00]: GL_IBM_rasterpos_clip
+[00:00:00]: GL_NV_blend_square
+[00:00:00]: GL_NV_conditional_render
+[00:00:00]: GL_NV_depth_clamp
+[00:00:00]: GL_NV_fog_distance
+[00:00:00]: GL_NV_light_max_exponent
+[00:00:00]: GL_NV_texgen_reflection
+[00:00:00]: GL_NV_texture_barrier
+[00:00:00]: GL_SGIS_generate_mipmap
+[00:00:00]: GL_SGIS_texture_edge_clamp
+[00:00:00]: GL_SGIS_texture_lod
+[00:00:00]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:00]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:00]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:00]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:00]: GL_MAX_VARYING_VECTORS not supported
+[00:00:00]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:00]: GL_MAX_VERTEX_UNIFORM_VECTORS not supported
+[00:00:00]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 16
+[00:00:00]: GL_MAX_FRAGMENT_UNIFORM_VECTORS not supported
+[00:00:00]: 3 compressed texture formats
+[00:00:00]: texture format 0x83f0
+[00:00:00]: texture format 0x83f2
+[00:00:00]: texture format 0x83f3
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence.
+	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-367546858	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:00:01]: Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-367546858	
+[00:00:01]: Loading mod: workshop-367546858 (Chinese Language Pack) Version:2.6.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-836583293	
+[00:00:01]: Loading mod: workshop-836583293 (Item Info) Version:0.13	
+[00:00:01]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-365119238 (SmartCrockPot)	Loading modmain.lua	
+[00:00:01]: modimport: ../mods/workshop-365119238/modmain_segments/containerwidgetfunction.lua	
+[00:00:01]: modimport: ../mods/workshop-365119238/modmain_segments/containers_setup.lua	
+[00:00:01]: modimport: ../mods/workshop-365119238/modmain_segments/action_predict.lua	
+[00:00:01]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:00:01]: Action defined at 	../mods/workshop-365119238/modmain_segments/action_predict.lua:1 in (local) result (main) <0-0>	
+[00:00:01]: Mod: workshop-836583293 (Item Info)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-836583293 (Item Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-836583293 (Item Info)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-367546858 (Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-367546858 (Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-367546858 (Chinese Language Pack)	Loading modmain.lua	
+[00:00:01]: Translator:LoadPOFile - loading file: ../mods/workshop-367546858/DST_chs.po	
+[00:00:01]: [Chinses] 据STEAM语言加载简体翻译成功！	
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: PlayerDeaths could not load morgue	
+[00:00:03]: PlayerHistory could not load player_history	
+[00:00:03]: bloom_enabled	false	
+[00:00:03]: OnLoad slot	2	: World options was nil! Populating with default.	
+[00:00:03]: OnLoad slot	3	: World options was nil! Populating with default.	
+[00:00:03]: OnLoad slot	4	: World options was nil! Populating with default.	
+[00:00:03]: OnLoad slot	5	: World options was nil! Populating with default.	
+[00:00:03]: loaded saveindex	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:05]: Mod: workshop-365119238 (SmartCrockPot)	Registering prefabs	
+[00:00:05]: Mod: workshop-365119238 (SmartCrockPot)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-836583293 (Item Info)	Registering prefabs	
+[00:00:05]: Mod: workshop-836583293 (Item Info)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-367546858 (Chinese Language Pack)	Registering prefabs	
+[00:00:05]: Mod: workshop-367546858 (Chinese Language Pack)	  Registering default mod prefab	
+[00:00:05]: 	Load FE	
+[00:00:06]: 	Load FE: done	
+[00:00:06]: OnLoadPermissionList: /Users/puss/Documents/Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:06]: OnLoadPermissionList: /Users/puss/Documents/Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:06]: OnLoadUserIdList: /Users/puss/Documents/Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:06]: SimLuaProxy::QueryServer()
+[00:00:06]: ModIndex: Load sequence finished successfully.	
+[00:00:06]: Reset() returning
+[00:00:06]: focus gained
+[00:00:06]: focus lost
+[00:00:06]: focus gained
+[00:00:06]: focus lost
+[00:00:11]: focus gained
+[00:00:13]: CURL ERROR: (s3.amazonaws.com) Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[00:00:13]: [Steam] Auth Session Ticket requested...
+[00:00:13]: [Steam] Got Auth Session Ticket
+[00:00:15]: focus lost
+[00:00:17]: [200] Account Communication Success (3)
+[00:00:17]: loaded inventory_cache
+[00:00:17]: Logging in as KU_uGVY91rE
+[00:00:23]: loaded inventory_cache
+[00:00:24]: SimLuaProxy::QueryServer()
+[00:01:08]: focus gained
+[00:01:12]: Executing "open "https://accounts.kleientertainment.com/Register/Accounts/?Game=DontStarveTogether&SteamTicket=14000000E2BA0800AE9C9F04B203B50901001001225F7458180000000100000002000000664A782A000000009EC6200004000000B20000003200000004000000B203B509010010011AEB0400664A782AC660051E00000000315F7458B10E90580100530A0100000000005EE5089916783C20C7FDC13CB0C9D96D90E6E15ABF9BF9B2514228ADEAD5D70A1A1ADDFB773039D0CCA346326E7BF10DDE8804927EA180E3407AD5DCBB42A27B6E0E3EFC2C14F9EF4FE1AECB5DE0053109386C8C490A09E2182BACD655449F08A627E07E037D923A92287EC7C44AF27838A009B24293D8B4A36384E46221F187&SteamID=76561198123123634""
+[00:01:13]: focus lost
